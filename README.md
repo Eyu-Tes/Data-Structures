@@ -1,4 +1,4 @@
-# Data Structures
+# Data-Structures
 
 Python Implementation of the popular data structures.
 
